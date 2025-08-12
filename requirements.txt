@@ -1,0 +1,20 @@
+
+# Deep Learning Framework
+torch
+torchvision
+torchaudio
+
+# Graph Neural Networks (GNNs)
+jax
+jaxlib
+jraph
+
+# Data Handling and Transformers
+datasets
+transformers
+sentence-transformers
+
+# Numerical and Scientific Computing
+numpy
+scipy
+scikit-learn
